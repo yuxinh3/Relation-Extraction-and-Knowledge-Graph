@@ -1,0 +1,100 @@
+testman,in,tan;man,at,table;table,with,food
+testwho,at,table;who,with,plate;plate,of,food;plate,in front of,him
+testman,at,dinner table;man,at,restaurant
+testman,over,table;table,with,plates;plates,of,food
+testman,at,table;man,with,plate;plate,of,food
+testperson,down,street;person,with,umbrella
+tes
+testperson,down,alley street
+testperson,between,buildings;buildings,on,city street
+testwoman,with,umbrella;woman,walks,street
+testwoman,on,tennis court
+testwoman,hitting,tennis ball;woman,with,racquet
+testshe,hit,tennis ball;she,with,racket
+testwoman,hits,ball;woman,at,tennis court
+testtennis player,hitting,tennis ball
+tes
+testman,sitting on,bench;bench,wearing,suit
+testman,sitting on,park bench;park bench,in,sun
+testman,sitting on,bench;man,by,grass
+testman,sitting on,park bench;man,in,outfit
+testman,for,camera
+tes
+tes
+testman,in,street
+testman,wearing,camouflage hat
+testwoman,taking,selfie;woman,with,cell phone
+testwoman,wearing,glasses
+testwho,taking,picture;picture,of,herself
+testwoman,using,phone;picture,of,herself
+testwoman,taking,picture;picture,of,herself;woman,in,mirror
+testgroup,of,people;people,wearing,skis;people,on,surface
+testgroup,of,people;group,cross,country;country,across,hills
+testpeople,on,ski bank
+testgroup,of,soldiers;group,on,skis;skis,in,uniforms
+testgroup,of,people
+testcouple,of,men;couple,riding,bikes;couple,down,street
+testkid,wearing,backpack;kid,rides,bike;kid,near,beach
+testcouple,of,people;couple,riding,bicycles;bicycles,on,beach
+testman,riding,bike;man,through,park
+testkids,on,bikes;kids,having,backpack
+testperson,holding,umbrella;umbrella,above,head
+testwoman,wearing,sash
+testperson,with,gloves;person,wearing,sash
+testwoman,with,hat;hat,near,group;group,of,people
+testshe,holding,umbrella;she,on,street
+testwoman,showing,cake
+testlady,wearing,shirt;shirt,holding,cake
+testman,in,background;woman,holds,cake
+tes
+tes
+testlot,of,umbrellas;lot,under,clock
+tes
+testgroup,of,umbrellas;group,near,building clock
+tes
+testbunch,of,umbrellas
+testcrowd,attending,community fair
+testcrowd,of,people;crowd,in,fair
+testcrowd,of,people;crowd,at,type event;type event,in front of,clock tower
+testbuilding,has,clock;clock,on,front;front,of,it
+testfestival,with,people;people,outside,clock tower
+testbreakfast,in,bed
+testboy,about,breakfast;boy,in,bed
+tes
+teststick,near,window
+testfalcon,on,window;window,in,distance
+testkitchen,with,counter;counter,next to,oven;counter,next with,stove
+tes
+testkitchen,with,walls;walls,on,windowsill
+testkitchen,with,plants;plants,sitting in,window
+testkitchen,has,appliances;appliances,on,window sill
+testwoman,at,table;table,inside of,kitchen
+testboys,at,table
+testcouple,of,people;people,at,room table
+testkitchen area,has,wood;wood,flooring,room table
+testperson,sitting in,room;person,with,light;light,coming in,window
+testwoman,hitting,tennis ball;woman,on,court
+testwoman,swinging,tennis racquet;tennis racquet,towards,tennis ball
+testtennis player,finishes,swing
+tes
+testfemale,in,shirt;female,playing,tennis
+testcake,on,pan;pan,with,spatula;flower,white with,roses
+testtable,containing,pitcher
+testdessert,on,server;server,with,spatula
+testclose,on,plate;plate,on,table
+testcake,on,plate;plate,sitting on,table
+testgroup,of,people;group,at,party
+testpeople,around,table;table,with,wine bottles
+tes
+testgroup,of,people;people,at,tables
+testman,expressing,something
+testtable,with,plates;plates,of,glasses
+testdinner table,with,plates;plates,of,gourmet hamburgers
+testtable,full of,restaurant food
+testbunch,of,plates;plates,of,gourmet meals
+testburgers,at,restaurant
+testglass vase,with,oranges;oranges,on,table;table,next to,plate;plate,with,oranges
+testoranges,sit in,vase;oranges,on,table
+tes
+testtable,with,vase
+testvases,on,display;display,with,oranges;oranges,in,glass vase;apple,on,platter

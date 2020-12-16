@@ -1,0 +1,100 @@
+man,in,tan;man,at,table;table,with,food
+who,at,table;who,with,plate;plate,of,food;plate,in front of,him
+man,at,dinner table;man,at,restaurant
+man,over,table;table,with,plates;plates,of,food
+man,at,table;man,with,plate;plate,of,food
+person,down,street;person,with,umbrella
+
+person,down,alley street
+person,between,buildings;buildings,on,city street
+woman,with,umbrella;woman,walks,street
+woman,on,tennis court
+woman,hitting,tennis ball;woman,with,racquet
+she,hit,tennis ball;she,with,racket
+woman,hits,ball;woman,at,tennis court
+tennis player,hitting,tennis ball
+
+man,sitting on,bench;bench,wearing,suit
+man,sitting on,park bench;park bench,in,sun
+man,sitting on,bench;man,by,grass
+man,sitting on,park bench;man,in,outfit
+man,for,camera
+
+
+man,in,street
+man,wearing,camouflage hat
+woman,taking,selfie;woman,with,cell phone
+woman,wearing,glasses
+who,taking,picture;picture,of,herself
+woman,using,phone;picture,of,herself
+woman,taking,picture;picture,of,herself;woman,in,mirror
+group,of,people;people,wearing,skis;people,on,surface
+group,of,people;group,cross,country;country,across,hills
+people,on,ski bank
+group,of,soldiers;group,on,skis;skis,in,uniforms
+group,of,people
+couple,of,men;couple,riding,bikes;couple,down,street
+kid,wearing,backpack;kid,rides,bike;kid,near,beach
+couple,of,people;couple,riding,bicycles;bicycles,on,beach
+man,riding,bike;man,through,park
+kids,on,bikes;kids,having,backpack
+person,holding,umbrella;umbrella,above,head
+woman,wearing,sash
+person,with,gloves;person,wearing,sash
+woman,with,hat;hat,near,group;group,of,people
+she,holding,umbrella;she,on,street
+woman,showing,cake
+lady,wearing,shirt;shirt,holding,cake
+man,in,background;woman,holds,cake
+
+
+lot,of,umbrellas;lot,under,clock
+
+group,of,umbrellas;group,near,building clock
+
+bunch,of,umbrellas
+crowd,attending,community fair
+crowd,of,people;crowd,in,fair
+crowd,of,people;crowd,at,type event;type event,in front of,clock tower
+building,has,clock;clock,on,front;front,of,it
+festival,with,people;people,outside,clock tower
+breakfast,in,bed
+boy,about,breakfast;boy,in,bed
+
+stick,near,window
+falcon,on,window;window,in,distance
+kitchen,with,counter;counter,next to,oven;counter,next with,stove
+
+kitchen,with,walls;walls,on,windowsill
+kitchen,with,plants;plants,sitting in,window
+kitchen,has,appliances;appliances,on,window sill
+woman,at,table;table,inside of,kitchen
+boys,at,table
+couple,of,people;people,at,room table
+kitchen area,has,wood;wood,flooring,room table
+person,sitting in,room;person,with,light;light,coming in,window
+woman,hitting,tennis ball;woman,on,court
+woman,swinging,tennis racquet;tennis racquet,towards,tennis ball
+tennis player,finishes,swing
+
+female,in,shirt;female,playing,tennis
+cake,on,pan;pan,with,spatula;flower,white with,roses
+table,containing,pitcher
+dessert,on,server;server,with,spatula
+close,on,plate;plate,on,table
+cake,on,plate;plate,sitting on,table
+group,of,people;group,at,party
+people,around,table;table,with,wine bottles
+
+group,of,people;people,at,tables
+man,expressing,something
+table,with,plates;plates,of,glasses
+dinner table,with,plates;plates,of,gourmet hamburgers
+table,full of,restaurant food
+bunch,of,plates;plates,of,gourmet meals
+burgers,at,restaurant
+glass vase,with,oranges;oranges,on,table;table,next to,plate;plate,with,oranges
+oranges,sit in,vase;oranges,on,table
+
+table,with,vase
+vases,on,display;display,with,oranges;oranges,in,glass vase;apple,on,platter

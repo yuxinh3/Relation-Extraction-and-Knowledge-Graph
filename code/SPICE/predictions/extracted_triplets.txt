@@ -1,0 +1,100 @@
+table,with,food;man,sit at,table;man,in,shirt
+table,with,plate;plate,of,food
+table,at,restaurant;man,sit at,table
+plate,of,food;man,smile over,table;table,cover with,plate
+plate,of,food;table,with,plate
+street,with,umbrella;person,walk down,street
+street,with,umbrella
+
+build,on,street;person,carry,umbrella;person,walk between,build
+woman,with,umbrella;woman,walk up,street
+woman,stand on,court
+woman,hit with,racquet;woman,hit,ball
+woman,hit,ball;woman,hit with,racket;woman,have,racket
+ball,at,court;woman,hit,ball
+
+
+bench,wear,suit;man,sit on,bench
+bench,in,sun
+
+man,sit on,bench;bench,in,outfit
+man,pose for,camera;woman,pose for,camera
+
+
+man,hug in,street
+man,wear,hat
+woman,take with,phone;woman,have,phone;woman,take,selfie
+
+picture,of,woman
+woman,use,phone;picture,of,woman;phone,take,picture
+picture,of,woman;woman,take,picture;woman,take in,mirror
+group,of,people;people,wear on,surface;people,wear,ski
+group,cross across,hill;group,of,people;group,cross,ski
+people,ski on,bank
+soldier,on,ski;group,of,soldier;group,in,uniform
+group,of,people
+couple,ride,bike
+kid,wear,bike;kid,have,bike;kid,wear,ride;bike,near,beach
+people,ride,bicycle;people,ride on,beach
+man,ride,bike;man,have,bike;man,ride through,park
+bike,with,one;kid,on,bike;kid,have,backpack
+person,hold,umbrella;person,have,head;umbrella,above,head
+woman,wear,umbrella;woman,wear,sash
+person,with,glove
+group,of,people;woman,with,stand;woman,near,group
+
+woman,show off,cake
+lady,wear,shirt
+woman,hold,cake;man,smile in,background
+
+
+lot,sit under,clock
+umbrella,build with,awning
+group,near,clock;group,of,umbrella
+
+umbrella,sit in front of,build
+crowd,attend,fair
+crowd,of,people;crowd,walk in,fair
+people,at,event;crowd,in,front;crowd,of,people;crowd,of,tower
+build,have,clock;clock,display on,front;front,of,build
+festival,outside,tower;festival,with,people;festival,with,tent
+boy,excite about,breakfast;boy,have,breakfast;breakfast,in,bed
+boy,excite about,breakfast;breakfast,in,bed
+boy,in,bed
+bird,perch on top of,stick;stick,near,window
+falcon,perch on,window;window,look off in,distance
+kitchen,next to,oven;kitchen,with,counter;oven,with,stave
+image,of,kitchen;kitchen,set with,plant
+kitchen,with,wall;kitchen,with,plant;kitchen,on,windowsill
+kitchen,with,plant;plant,sit in,window
+kitchen,have,houseplant;kitchen,have,appliance;appliance,on,sill
+woman,sit at,inside;inside,of,kitchen
+boy,sit at,eat
+couple,sit at,table
+area,have,chair;area,have,floor
+light,come in,window;person,sit with,light;person,sit in,room
+woman,hit on,court;woman,hit,ball
+woman,swing,racquet;racquet,towards,ball
+player,finish,swing;player,have,swing
+
+female,play,tennis;female,in,shirt
+cake,on,pan;pan,with,spatula
+table,contain,cake;table,contain,pitcher
+dessert,set on,server;dessert,set with,spatula
+plate,on,table;cake,on,plate
+cake,on,plate;cake,sit on,table
+group,listen to,talk;group,of,people;people,at,party
+people,convesate around,table;table,cover with,bottle
+
+group,of,people;group,sit at,table
+man,listen,glass;man,express,something;man,express as,other
+plate,of,glass;table,top with,plate
+table,with,plate;table,of,hamburger
+table,of,food
+plate,of,meal
+ring,serve at,restaurant;fry,serve at,restaurant
+vase,fill next to,plate;vase,fill with,orange;orange,on,table
+vase,on,table;orange,sit in,vase
+orange,arrange on,table;glassware,arrange on,table
+dish,on,table;tangerine,in,dish;table,with,vase;table,with,cup
+orange,in,vase;apple,on,platter

@@ -1,0 +1,100 @@
+man,sitting at,table;man,is in,tan shirt;man,sitting at,table food;table,is with,food
+table,is with,plate of food
+man,sitting at,dinner table;man,sitting at,open restaurant;man,sitting at,restaurant
+man,smiles over,table covered;man,smiles over,table;man,smiles over,table covered with plates;man,smiles over,table covered with plates of food
+man,sitting with,almost empty plate;man,sitting with,empty plate;man,sitting with,plate;man,sitting at,table;man,sitting with,empty plate food;man,sitting with,plate food;man,sitting with,almost empty plate food
+person,walks down street with,umbrella;person,walks down,street
+
+alley street,holding,umbrella
+person,carries,umbrella;person,carries,red umbrella;person,walks between,buildings;person,walks on,city street
+woman,is with,umbrella;woman,walks up,street
+woman,standing on,tennis court
+woman,hitting,tennis ball;woman,hitting tennis ball with,racquet
+
+woman,hits,ball;woman,hits ball at,tennis court
+tennis player,hitting,tennis ball;female tennis player,hitting,tennis ball
+
+man,sitting on,bench
+man,sitting on,park bench;man,sitting in,sun
+man,sitting by,grass;man,sitting on,bench
+man,sitting on,park bench;man,sitting in,outfit;man,sitting in,black outfit
+man,are posing for,camera;young man,are posing for,camera;woman,are posing for,camera
+
+
+
+man,wearing,camouflage hat
+Woman,taking,selfie;Woman,taking selfie with,her cell phone
+woman,wearing,glasses;beautiful woman,wearing,glasses
+
+
+woman,is taking,picture;woman,is taking picture in,mirror;woman,is taking,picture of herself
+
+Group,cross country skiing across,snowy hills;Group,cross country skiing across,hills;Group,cross,country skiing
+people,skiing on,snowy ski bank;people,wearing,ski wear;people,skiing on,ski bank
+skis,is in,white uniforms
+
+
+kid,wearing,backpack rides
+people,are riding,bicycles;people,are riding bicycles on,beach
+man,riding,his bike;young man,riding,his bike;man,riding his bike through,park;young man,riding his bike through,park
+Two kids,is with,one having
+person,holding,umbrella;holding,umbrella above,their head;person,holding,umbrella above their head
+Woman,wearing,red sash;Woman,wearing,hat holding umbrella;Woman,wearing,sash
+person,is with,gloves
+woman,is with,hat standing near group of people
+She,is holding umbrella on,street;She,is holding umbrella there on,street;She,is holding there,umbrella;She,is holding,umbrella
+woman,is showing off,cake
+purple shirt,holding,cake;shirt,holding,cake;lady,wearing,shirt;lady,wearing,purple shirt
+woman,holds,cake;man,smiles in,background
+woman,holding coconut cake with,man;woman,holding coconut cake with,man looking;woman,holding,coconut cake;woman,holding coconut cake with,man looking on
+woman,holding up,cake
+
+building,is with,similar awning
+
+
+
+crowd,is attending,community fair;large crowd,is attending,community fair
+
+
+building,has,clock;building,has,clock displayed on front;building,has,clock displayed;building,has,clock displayed on front of it
+festival,is with,people
+his breakfast,is in,bed;boy,excited about,his breakfast;boy,excited about,his breakfast bed
+young boy,excited about,breakfast;boy,excited about,breakfast bed;breakfast,is in,bed;young boy,excited about,breakfast bed;boy,excited about,breakfast
+
+large bird,perched on,stick window;large bird,perched on,stick;bird,perched on,stick;bird,perched on,stick window
+falcon,perched on,window
+oven,is with,stove;kitchen,is with,wooden counter next oven
+kitchen setting,is with,potted plants
+kitchen,is with,green walls
+kitchen,is with,plants sitting in window
+kitchen,has,appliances on window sill;small kitchen,has,appliances;small kitchen,has,houseplants;kitchen,has,houseplants;small kitchen,has,appliances on window sill;kitchen,has,appliances
+woman,sitting at,table inside kitchen;woman,sitting at,table;woman,sitting at,table inside
+Two boys,sitting at,table
+
+kitchen area,has,wood flooring;kitchen area,has,hard wood flooring
+person,sitting in,room;person,sitting in,dark room light coming window;person,sitting in,room bright light;person,sitting in,room light coming;person,sitting in,room light coming window;person,sitting in,room bright light coming window;person,sitting in,room bright light coming;person,sitting in,dark room bright light coming window;person,sitting in,dark room bright light;person,sitting in,dark room light coming;person,sitting in,dark room bright light coming;dark room,is with,bright light coming in window;person,sitting in,dark room;person,sitting in,room light;person,sitting in,dark room light
+woman,hitting tennis ball on,court;woman,hitting,tennis ball
+woman,swinging tennis racquet towards,tennis ball;woman,swinging,tennis racquet
+tennis player,hitting,ball;tennis player,finishes,her swing;female tennis player,finishes,her swing;female tennis player,hitting,ball
+
+female,is in,red shirt;female,is playing,tennis
+pan,is with,spatula
+table,containing,cake pitcher
+pedestal server,is with,spatula
+
+
+group,listening to,man talk
+Four people,convesate around,table;Four people,convesate around,table covered;Four people,convesate around,table covered with wine bottles;people,convesate around,table;people,convesate around,table covered with wine bottles;people,convesate around,table covered
+
+
+man,expressing,something;others,hold,wine glasses
+table,topped with,plates;table,topped with,plates of food
+dinner table,is with,three plates of gourmet hamburgers
+gourmet hamburgers,is with,sweet potato fries
+
+onion rings,served at,restaurant;Burgers,served at,restaurant;fries,served at,restaurant
+glass vase,filled with,oranges;glass vase,filled on,table plate filled more oranges;glass vase,filled on,table plate;glass vase,filled on,table plate filled even more oranges;glass vase,filled on,table;glass vase,filled on,table plate filled oranges
+oranges,sit in,vase;oranges,sit on,table;Numerous oranges,sit in,vase;Numerous oranges,sit on,table
+oranges,arranged on,tan table;Glassware,arranged on,tan table
+table,is with,vase;Tangerines,are in,dishes;Tangerines,are in,dishes on table with vase;Tangerines,are in,dishes on table
+oranges,is in,glass vase

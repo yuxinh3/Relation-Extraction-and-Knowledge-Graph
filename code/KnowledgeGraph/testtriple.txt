@@ -1,0 +1,5 @@
+man,in,shirt;man,sitting at,table;tabel,with,food
+man,sitting at,table;food,in front of,him;tabel,with,food
+man,sitting at,table;man,at,restaurant;table,at,restaurant
+man,smiles over,table;table,covered with,food
+man,sitting at,table;table,with,food

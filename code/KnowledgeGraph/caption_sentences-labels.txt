@@ -1,0 +1,100 @@
+man,in,shirt;man,sitting at,table;tabel,with,food
+man,sitting at,table;food,in front of,him;tabel,with,food
+man,sitting at,table;man,at,restaurant;table,at,restaurant
+man,smiles over,table;table,covered with,food
+man,sitting at,table;table,with,food
+person,walks down,street;person,with,umbrella
+person,standing in,street;person,with,umbrella
+person,walking down,street;person,holding,umbrella
+person,walks between,buildings;person,walks on,street;person,carries,umbrella
+woman,with,umbrella;woman,walks up,street
+woman,standing on,tennis court;woman,holding,racquet
+woman,hitting,tennis ball;woman,with,racquet
+woman,hit,tennis ball;woman,with,racket
+woman,hits,ball;woman,at,tennis court
+player,hitting,tennis ball;female,hitting,tennis ball
+man,sitting on,bench
+man,sitting on,bench;man,wearing,suit
+man,sitting on,bench;man,in,sun;bench,in,sun
+man,sitting on,bench;bench,by,grass;bench,by,trees
+man,sitting on,bench;man,in,outfit
+man,posing for,camera;woman,posing for,camera
+man,standing next to,woman;woman,standing next to,man
+man,hugging,lady;lady,hugging,man
+man,hugging,woman;woman,hugging,man;man,in,street;woman,in,street
+man,wearing,hat;man,eating,cake
+woman,taking,selfie;woman,with,cell phone
+woman,wearing,glasses;woman,taking,selfie
+woman,taking,picture
+woman,using,phone;woman,take,picture
+woman,taking,picture;woman,in,mirror
+people,wearing,skis;people,on,surface;skis,on,surface
+people,cross,country;people,skiing across,hills
+people,skiing on,ski bank;people,wearing,ski wear
+soldiers,on,skis;soldiers,in,uniforms
+people,wearing,ski equipment
+men,riding,bikes;men,riding down,street
+kid,wearing,backpack;kid,rides,bike;kid,near,beach
+people,riding,bicycles;people,on,beach
+man,riding,bike;man,riding through,park
+kids,on,bikes;kids,having,backpack
+person,holding,umbrella;umbrella,above,head
+woman,wearing,sash;woman,wearing,hat;woman,holding,umbrella
+person,with,gloves;person,wearing,sash;person,holding,umbrella
+woman,with,hat;woman,standing near,people
+she,holding,umbrella;she,on,street
+woman,showing off,cake;man,looks on,cake
+lady,wearing,shirt;lady,holding,cake.
+man,smiles in,background;woman,holds,cake
+woman,standing,outside;woman,holding,cake;man,looking on,cake
+woman,holding up,cake
+umbrellas,sitting under,clock
+umbrellas,outside,building;building,with,awning
+umbrellas,near,clock
+umbrellas,next to,building
+umbrellas,in front of,building
+crowd,attending,fair
+people,walking in,fair
+people,at,event;people,in front of,tower
+building,has,clock
+festival,with,people;festival,with,tents;tents,outside,tower
+boy,excited about,breakfast;boy,in,bed
+boy,excited about,breakfast;boy,in,bed
+boy,eating,food;boy,in,bed
+bird,perched on,stick;bird,near,window
+falcon,perched on,window
+kitchen,with,counter;counter,next to,oven;oven,with,stove
+kitchen,with,plants
+kitchen,with,walls;plants,on,windowsill
+kitchen,with,plants;plants,sitting in,window
+kitchen,has,appliances;houseplants,on,sill
+woman,sitting at,table;table,inside,kitchen
+boys,sitting at,table
+people,sitting at,table
+area,has,flooring;area,has,table;area,has,chairs;area,has,cabinets
+person,sitting in,room;light,coming in,window
+woman,hitting,tennis ball;woman,on,court
+woman,swinging,tennis racquet;tennis racquet,towards,tennis ball
+player,finishes,swing;player,hitting,ball
+woman,hit,tennis
+female,in,shirt;female,playing,tennis
+cake,on,pan;pan,with,spatula;pan,with,roses;pan,with,holder
+table,containing,cake;table,containing,pitcher
+dessert set,on,pedestal server;pedestal server,with,spatula
+cake,on,plate;plate,on,table
+cake,on,plate;plate,sitting on,table
+people,at,party;people,listening to,talk
+people,convesate around,table;table,covered with,bottles
+men,engaged in,conversation;women,engaged in,conversation
+people,sitting at,tables
+man,expressing,something;others,hold,glasses
+table,topped with,food;table,topped with,glasses
+table,with,hamburgers
+table,full of,food;hamburgers,with,fries;hamburgers,with,onion rings;hamburgers,with,dips
+plates,of,meals
+burgers,served at,restaurant;fries,served at,restaurant;onion rings,served at,restaurant
+vase,filled with,oranges;oranges,on,table;table,next to,plate;plate,filled with,oranges
+oranges,sit in,vase;vase,on,table
+glassware,arranged on,table;oranges,arranged on,table
+tangerines,in,dishes;dishes,on,table;table,with,vase;table,with,cup
+vases,on,display;oranges,in,vase;apple,on,platter
